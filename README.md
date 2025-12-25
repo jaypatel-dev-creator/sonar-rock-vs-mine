@@ -27,6 +27,18 @@ Scikit-learn
 Google Colab
 
 
+📁 Project Structure
+sonar-rock-vs-mine/
+│
+├── images/
+│   └── accuracy.png
+├── README.md
+├── sonar_prediction.ipynb
+└── .gitignore
+
+
+
+
 🧠 Model Workflow
 1- Load dataset using Kaggle API
 2-Perform data inspection and preprocessing
