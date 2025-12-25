@@ -56,6 +56,9 @@ The model performance was evaluated using accuracy on both training and testing 
 - Training Accuracy: 83.74%
 - Testing Accuracy: 78.57%
 The close gap between training and testing accuracy indicates that the model generalizes well and does not suffer from significant overfitting.
+## Model Accuracy
+![Accuracy](images/accuracy.png)
+
 
 🎯 Key Learning Outcomes
 End-to-end ML workflow implementation
