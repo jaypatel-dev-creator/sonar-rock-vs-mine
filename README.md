@@ -1,6 +1,6 @@
-# 🪨 Sonar Rock vs Mine Classification
+#  Sonar Rock vs Mine Classification
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on building a binary classification model to predict whether an object detected by sonar signals is a **Rock (R)** or a **Mine (M)**.
 
 The model is built using **Logistic Regression**, a simple yet effective algorithm for binary classification problems.
@@ -44,7 +44,7 @@ The dataset is approximately balanced, so no class imbalance techniques were req
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 Since the dataset is balanced, **accuracy** was used as the evaluation metric.
 
@@ -56,13 +56,13 @@ The close gap between training and testing accuracy indicates good generalizatio
 
 ---
 
-## 📊 Model Accuracy Visualization
+##  Model Accuracy Visualization
 
 ![Model Accuracy](images/accuracy.png)
 
 ---
 
-## 🎯 Key Learning Outcomes
+##  Key Learning Outcomes
 
 - End-to-end ML workflow implementation  
 - Understanding binary classification problems  
@@ -71,7 +71,7 @@ The close gap between training and testing accuracy indicates good generalizatio
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Try advanced models (SVM, Random Forest)
 - Add cross-validation
@@ -79,7 +79,4 @@ The close gap between training and testing accuracy indicates good generalizatio
 
 ---
 
-## 👨‍💻 Author
 
-**Jay Patel**  
-Aspiring Machine Learning Engineer
